@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Madhvi",
+      "email": "rk@gmail.com",
+      "number": 987654321,
+      "address": "pune",
+      "services": "milk"
+    },
+    {
+      "id": 2,
+      "name": "Madhvi",
+      "email": "Madhvi@gnail.com",
+      "number": 1234567890,
+      "address": "zapwadi ,mangrul",
+      "services": "Pune"
+    },
+    {
+      "id": 3,
+      "name": "Poonam Cafe",
+      "email": "khutalpooonam@gmail.com",
+      "number": 9763708083,
+      "address": "Pune Near Sp College",
+      "services": "Nasta , Coffee ,Tea ,Milk"
+    }
+  ],
+  "signup": [
+    {
+      "name": "sdaa",
+      "email": "dsdsds@ss",
+      "number": 212112231,
+      "password": "sdaddsa",
+      "id": 1
+    },
+    {
+      "name": "Radhakrushna Khutal",
+      "email": "khutalradhakrushna@gmail.com",
+      "number": 987654321,
+      "password": "Radhe@123",
+      "id": 2
+    },
+    {
+      "name": "Poonam Khutal",
+      "email": "khutalpooonam@gmail.com",
+      "number": 9763708083,
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
